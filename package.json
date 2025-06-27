@@ -1,8 +1,8 @@
 {
-  "private": true,
+  "type": "module",
   "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "next build",
+    "d": "next dev --turbopack",
+    "b": "next build",
     "start": "next start"
   },
   "dependencies": {
